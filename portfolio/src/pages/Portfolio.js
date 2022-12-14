@@ -17,7 +17,6 @@ const PortfolioRow = (props) => {
 export default function Portfolio() {
   return (
     <div className="container">
-      Portfolio
       <PortfolioRow href="https://emileebogdan.github.io/project-1-travel-and-events/">
         <img src={Project1} alt="project1" />
         <h2> Project 1: Safety Search Site</h2>

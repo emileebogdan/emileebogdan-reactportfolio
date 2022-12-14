@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/emileebogdan-reactportfolio/static/css/main.c8e8ba51.css",
+    "main.js": "/emileebogdan-reactportfolio/static/js/main.70373fda.js",
+    "static/js/787.1ed0c42c.chunk.js": "/emileebogdan-reactportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project2.png": "/emileebogdan-reactportfolio/static/media/project2.aedf6d4addf3e90c9b5b.png",
+    "static/media/emilee.jpeg": "/emileebogdan-reactportfolio/static/media/emilee.afc7d1118f39d52fce98.jpeg",
+    "static/media/jot.png": "/emileebogdan-reactportfolio/static/media/jot.fb0f4bbca67bba5d75d5.png",
+    "static/media/gamescreenshot.png": "/emileebogdan-reactportfolio/static/media/gamescreenshot.1780eeab9809295718f8.png",
+    "static/media/stackoverflowg.png": "/emileebogdan-reactportfolio/static/media/stackoverflowg.6572e7ab039587d0bf10.png",
+    "static/media/employeeTrackerScreenshot.png": "/emileebogdan-reactportfolio/static/media/employeeTrackerScreenshot.61e7f6af97926784f40d.png",
+    "static/media/project1.png": "/emileebogdan-reactportfolio/static/media/project1.f03c6393be79a40e1a09.png",
+    "static/media/notetaker.png": "/emileebogdan-reactportfolio/static/media/notetaker.b55d66d8c49d610417c7.png",
+    "static/media/github.png": "/emileebogdan-reactportfolio/static/media/github.783469794d3e1a65dbd0.png",
+    "static/media/logo.svg": "/emileebogdan-reactportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emileebogdan-reactportfolio/index.html",
+    "main.c8e8ba51.css.map": "/emileebogdan-reactportfolio/static/css/main.c8e8ba51.css.map",
+    "main.70373fda.js.map": "/emileebogdan-reactportfolio/static/js/main.70373fda.js.map",
+    "787.1ed0c42c.chunk.js.map": "/emileebogdan-reactportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8e8ba51.css",
+    "static/js/main.70373fda.js"
+  ]
+}

@@ -1,2 +1,13 @@
+input {
+    background-color: white;
+    padding: 5px;
 
+}
+textarea {
+    background-color: white;
+    padding-top: 10px;
+}
 
+button {
+    background-color: white;
+}

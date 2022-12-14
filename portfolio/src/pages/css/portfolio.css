@@ -1,0 +1,21 @@
+
+.portfolio img {
+    height:200px;
+    width: 200px;
+    border-radius: 10px;
+    gap: 16px;
+}
+
+.portfolio {
+    display:flex;
+    width: 100%;
+    align-items: center;
+    gap: 16px;
+}
+
+.portfolio {
+    display:flex;
+    flex-direction: column;
+    gap: 16px;
+}
+

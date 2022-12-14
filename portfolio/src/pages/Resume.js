@@ -3,7 +3,7 @@ import React from 'react';
 export default function Resume() {
   return (
     <div className="container">
-      <a href='https://drive.google.com/file/d/1T5N9bwwKQPqAdW6uHVN1EONKS5VnbFwp/view?usp=share_link' target="_blank">Resume</a>
+      <a href='https://docs.google.com/document/d/1sQhzZgSshtDh6-TSv26U5uvExfIodfKFToM_6uiV1W4/edit?usp=sharing' target="_blank">Resume</a>
     </div>
   );
 }

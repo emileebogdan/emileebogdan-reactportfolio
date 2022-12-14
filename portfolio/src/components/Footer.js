@@ -2,6 +2,7 @@ import React from 'react';
 import githubLogo from '../assets/images/github.png';
 import linkedIn from '../assets/images/linkedIn.png';
 import stackOverflow from '../assets/images/stackoverflowg.png';
+import './css/footer.css';
 
 
 export default function Footer() {

@@ -8,9 +8,9 @@ export default function Contact
       <form className='contact'>
         <input type="text" placeholder="Name" required />
         <input type="email" placeholder='Email' required />
-        <textarea placeholder="Let's Chat"/>
+        <textarea placeholder="Let's Chat" />
         <button type="submit">Submit</button>
-      </form>    
+      </form>
     </div>
   );
 }

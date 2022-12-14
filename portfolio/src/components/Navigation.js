@@ -1,4 +1,5 @@
 import React from 'react';
+import './css/navigation.css';
 // indication of current page
 export default function Navigation({currentPage, handlePageChange}) {
     return (
@@ -49,5 +50,5 @@ export default function Navigation({currentPage, handlePageChange}) {
     }
 
 
-    
+
     
